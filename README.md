@@ -12,6 +12,7 @@ notebooks/
 ├── en/  → Traductions anglaise
 └── fr/  → Traductions française
 LICENSE
+```
 
 # Projets
 
