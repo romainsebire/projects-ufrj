@@ -16,11 +16,9 @@ LICENSE
 
 # Projets
 
-Chaque Notebook sera disponible en **Portuguese**, **English**, and **French**.
-
 | Project | 🇫🇷 French | 🇵🇹 Portuguese | 🇬🇧 English |
 |--------|----------------|-------------|------------|
-| Prédiction de la localisation des bus | [Voir notebook](notebooks/fr/Notebook_bus_fr.ipynb) | [Ver notebook](notebooks/br/Notebook_bus_br.ipynb) | [View notebook](notebooks/en/Notebook_bus_en.ipynb) |
+| Prédiction de la localisation des bus | [Voir notebook](notebooks/fr/Notebook_bus_versionSansOutput_fr.ipynb) | [Ver notebook](notebooks/br/Notebook_bus_br.ipynb) | [View notebook](notebooks/en/Notebook_bus_en.ipynb) |
 | Prévision des ventes de magasins par séries temporelles | [Voir notebook](notebooks/fr/Notebook_forecating_fr.ipynb) | [Ver notebook](notebooks/br/Notebook_forecating_br.ipynb) | [View notebook](notebooks/en/Notebook_forecating_en.ipynb) |
 | Système de recommandation de films avec MovieLens1M | [Voir notebook](notebooks/fr/Notebook_clustering_fr.ipynb) | [Ver notebook](notebooks/br/Notebook_clustering_br.ipynb) | [View notebook](notebooks/en/Notebook_clustering_en.ipynb) |
 | Classification pour l’approbation de crédits bancaires | [Voir notebook](notebooks/fr/Notebook_creditApproval_fr.ipynb) | [Ver notebook](notebooks/br/Notebook_creditApproval_br.ipynb) | [View notebook](notebooks/en/Notebook_creditApproval_en.ipynb) |
